@@ -1,0 +1,1 @@
+This project is a Sudoku Solver program that takes a partially filled Sudoku puzzle as input and solves it using the backtracking algorithm. It can handle any valid Sudoku puzzle, solving it efficiently and printing the solved grid.
